@@ -1,0 +1,7 @@
+DB_PASSWORD=jb
+DB_USER=jb
+.env
+
+target/
+node_modules/
+*.log
